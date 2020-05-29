@@ -1,0 +1,18 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.html",
+  "scripts": {
+    "build": "webpack --mode development --open",
+    "start": "electron index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.2",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
