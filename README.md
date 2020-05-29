@@ -1,15 +1,15 @@
-#Chess
+# Chess
 
 Main dependencies
 * Node.js 
 * npm  
 
-##Install Node.js with npm:
+## Install Node.js with npm:
  
    > https://nodejs.org/uk/download/
         
         
-##Install dependencies
+## Install dependencies
 * __*Windows*__:
 
     ````
@@ -24,9 +24,9 @@ Main dependencies
     npm i
     ````    
         
-##Build 
+## Build 
 
     npm start build
     
-##Start 
+## Start 
    > Open `main.html` to any browser
